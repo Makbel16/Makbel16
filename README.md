@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm makbel</h1>
-<p> <img src="https://www.freepik.com/free-ai-image/3d-rendering-kid-playing-digital-game_72603692.htm#fromView=keyword&page=1&position=16&uuid=5be1e0dc-3514-4ba8-aaeb-dbe1b93d6e53&new_detail=true"\></p>
+<p> <img src="https://www.freepik.com/free-ai-image/3d-rendering-kid-playing-digital-game_72603692.htm#fromView=keyword&page=1&position=16&uuid=5be1e0dc-3514-4ba8-aaeb-dbe1b93d6e53&new_detail=true"/></p>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makbel16&label=Profile%20views&color=0e75b6&style=flat" alt="makbel16" /> </p>
