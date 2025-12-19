@@ -1,11 +1,20 @@
-<!-- Enhanced Animated Header with Advanced 3D Effects -->
+<!-- Enhanced Animated Header with Robot Theme and Advanced 3D Effects -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Makbel+Kebede;🎓+Computer+Science+Student;💻+Full+Stack+Developer;🌟+Passionate+about+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🤖+Hi%2C+I'm+Makbel+Kebede;🎓+Computer+Science+Student;💻+Full+Stack+Developer;🧠+AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- Advanced 3D Profile Image with Rotating Effect -->
+<!-- Robot-Themed Profile Image with Advanced 3D Effects -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-61bf-44d6-88dc-06b4066fb22b.gif" width="180" height="180" alt="Profile Image" style="border-radius: 50%; border: 5px solid #00FF00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.7); animation: rotate 10s linear infinite;" />
+  <!-- Robot Head Animation -->
+  <div style="position: relative; display: inline-block;">
+    <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-61bf-44d6-88dc-06b4066fb22b.gif" width="180" height="180" alt="Profile Image" style="border-radius: 50%; border: 5px solid #00FF00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.7); animation: rotate 10s linear infinite;" />
+    <!-- Robot Eyes -->
+    <div style="position: absolute; top: 35%; left: 30%; width: 15px; height: 15px; background: #00FF00; border-radius: 50%; box-shadow: 0 0 15px #00FF00; animation: blink 3s infinite;"></div>
+    <div style="position: absolute; top: 35%; left: 60%; width: 15px; height: 15px; background: #00FF00; border-radius: 50%; box-shadow: 0 0 15px #00FF00; animation: blink 3s infinite;"></div>
+    <!-- Robot Antenna -->
+    <div style="position: absolute; top: -10px; left: 50%; width: 3px; height: 20px; background: #00FF00; transform: translateX(-50%);"></div>
+    <div style="position: absolute; top: -15px; left: 50%; width: 10px; height: 10px; background: #00FF00; border-radius: 50%; transform: translateX(-50%); box-shadow: 0 0 10px #00FF00;"></div>
+  </div>
 </div>
 
 <style>
@@ -23,14 +32,22 @@
   50% { transform: scale(1.05); }
   100% { transform: scale(1); }
 }
+@keyframes blink {
+  0%, 40%, 80%, 100% { opacity: 1; }
+  20%, 60% { opacity: 0.2; }
+}
+@keyframes circuit {
+  0% { background-position: 0 0; }
+  100% { background-position: 100px 0; }
+}
 </style>
 
-<!-- Enhanced Profile Banner with Advanced 3D Animation -->
+<!-- Enhanced Profile Banner with Robot Theme and Advanced 3D Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=twinkling&fontColor=fff&desc=🎓%20Computer%20Science%20Student%20|%20💻%20Full%20Stack%20Developer%20|%20🌟%20Coding%20Enthusiast&descAlignY=80&descSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=🤖+Full+Stack+Developer&fontSize=50&animation=twinkling&fontColor=fff&desc=🎓+Computer+Science+Student+%7C+💻+Full+Stack+Developer+%7C+🧠+AI+%26+Robotics+Enthusiast&descAlignY=80&descSize=20" alt="Header Banner" />
 </p>
 
-<!-- Enhanced Badges with 3D Effects and Animations -->
+<!-- Enhanced Badges with Robot Theme and 3D Effects -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makbel16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="animation: pulse 2s infinite;" />
   <img src="https://img.shields.io/github/followers/makbel16?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" style="animation: pulse 2s infinite;" />
@@ -38,41 +55,41 @@
   <img src="https://img.shields.io/github/commit-activity/m/makbel16?style=for-the-badge&color=green" alt="Commit Activity" style="animation: pulse 2s infinite;" />
 </p>
 
-<!-- Trophy Showcase with Advanced 3D Animation -->
+<!-- Trophy Showcase with Robot Theme and Advanced 3D Animation -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=makbel16&theme=discord&row=1&column=7&margin-w=15&margin-h=15&animation=swing" alt="GitHub Trophies" style="animation: float 3s ease-in-out infinite;" />
   </a>
 </p>
 
-<!-- Enhanced Animated Divider with 3D Effect -->
+<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite; background: repeating-linear-gradient(90deg, #00FF00, #00FF00 10px, transparent 10px, transparent 20px); height: 5px;" />
 </div>
 
-<!-- About Me Section with Advanced Interactive Presentation -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> About Me
+<!-- About Me Section with Robot Theme and Advanced Interactive Presentation -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> About Me - The Human Behind the Code
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=🎓+Computer+Science+Student;💻+Full+Stack+Developer;🧩+Problem+Solver;🚀+Tech+Innovator" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=🎓+Computer+Science+Student;💻+Full+Stack+Developer;🤖+Robotics+Enthusiast;🧬+AI+%26+Machine+Learning+Explorer" alt="About Me Typing" />
 </div>
 
 <br>
 
 <div align="center">
-  <table style="animation: float 4s ease-in-out infinite;">
+  <table style="animation: float 4s ease-in-out infinite; border: 2px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, rgba(0,255,0,0.1), rgba(0,0,0,0.3));">
     <tr>
       <td width="50%" style="border-right: 2px dashed #00FF00; padding-right: 20px;">
-        <h3>🎓 Education & Background</h3>
+        <h3>🎓 Education & Academic Journey</h3>
         <p>📚 Currently pursuing a degree in <strong>Computer Science</strong></p>
         <p>📍 From Ethiopia, passionate about technology and innovation</p>
         <p>💡 Always eager to learn new technologies and solve complex problems</p>
-        <p>🎯 Focused on becoming an expert in software development</p>
+        <p>🎯 Focused on becoming an expert in software development and AI</p>
       </td>
       <td width="50%" style="padding-left: 20px;">
-        <h3>🚀 Professional Focus</h3>
+        <h3>🚀 Professional Focus & Interests</h3>
         <p>🖥️ <strong>Full Stack Development</strong> - Building complete web applications</p>
-        <p>🌐 Frontend & Backend expertise with modern frameworks</p>
+        <p>🤖 <strong>Robotics & AI</strong> - Exploring the future of automation</p>
         <p>🔧 Problem-solving mindset with attention to detail</p>
         <p>📈 Continuous learner staying updated with industry trends</p>
       </td>
@@ -82,27 +99,27 @@
 
 <p align="center" style="animation: pulse 3s infinite;">
   <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="60" height="60" />
-  <strong>Currently Learning:</strong> Advanced Full Stack Development Techniques & Cloud Technologies
+  <strong>Currently Learning:</strong> Advanced Full Stack Development, AI/ML, and Robotics
   <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="60" height="60" />
 </p>
 
 <p align="center" style="animation: pulse 3s infinite;">
   <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
-  <strong>Open to Collaborate:</strong> Python, JavaScript & Web Development Projects
+  <strong>Open to Collaborate:</strong> Python, JavaScript, AI/ML & Web Development Projects
   <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
 </p>
 
 📧 <strong>Reach Me:</strong> <a href="mailto:makbelkebede35@gmail.com">makbelkebede35@gmail.com</a>
 
-😄 <strong>Fun Fact:</strong> I think I am a jock man who loves coding and solving algorithmic challenges!
+😄 <strong>Fun Fact:</strong> I think I am a jock man who loves coding, robotics, and solving algorithmic challenges!
 
-<!-- Enhanced Animated Divider with 3D Effect -->
+<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite; background: repeating-linear-gradient(90deg, #00FF00, #00FF00 10px, transparent 10px, transparent 20px); height: 5px;" />
 </div>
 
-<!-- Enhanced Skills Section with Advanced 3D Animations -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Stack & Tools
+<!-- Enhanced Skills Section with Robot Theme and Advanced 3D Animations -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Stack & Tools - My Digital Toolbox
 
 ### Programming Languages
 <p align="center">
@@ -144,13 +161,13 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="60" height="60" alt="Heroku" style="margin: 15px; animation: float 3.7s ease-in-out infinite;" />&nbsp;&nbsp;
 </p>
 
-<!-- Enhanced Animated Divider with 3D Effect -->
+<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite; background: repeating-linear-gradient(90deg, #00FF00, #00FF00 10px, transparent 10px, transparent 20px); height: 5px;" />
 </div>
 
-<!-- Enhanced GitHub Stats Section with Advanced 3D Animations -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="40" height="40" /> GitHub Statistics
+<!-- Enhanced GitHub Stats Section with Robot Theme and Advanced 3D Animations -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="40" height="40" /> GitHub Statistics - My Coding Metrics
 
 <div align="center">
   <table style="animation: float 5s ease-in-out infinite;">
@@ -176,16 +193,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf04c-2dc8-41c5-981d-2b582d449b56.gif" width="120" height="120" />
 </div>
 
-<!-- Enhanced Animated Divider with 3D Effect -->
+<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite; background: repeating-linear-gradient(90deg, #00FF00, #00FF00 10px, transparent 10px, transparent 20px); height: 5px;" />
 </div>
 
-<!-- Enhanced Projects Section with Advanced 3D Effects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="40" height="40" /> Featured Projects
+<!-- Enhanced Projects Section with Robot Theme and Advanced 3D Effects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="40" height="40" /> Featured Projects - My Creations
 
 <div align="center">
-  <table style="animation: float 4s ease-in-out infinite;">
+  <table style="animation: float 4s ease-in-out infinite; border: 2px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, rgba(0,255,0,0.1), rgba(0,0,0,0.3));">
     <tr>
       <td width="50%" style="padding-right: 20px;">
         <h3>🚀 Portfolio Website</h3>
@@ -215,55 +232,55 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center" style="animation: float 3s ease-in-out infinite;">
+      <td width="33%" align="center" style="animation: float 3s ease-in-out infinite; padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
         <img src="https://user-images.githubusercontent.com/74038190/212747106-04ffbbb1-022f-4bb9-9065-162912d0f085.gif" width="100" height="100" />
-        <h4>Web Applications</h4>
+        <h4>🌐 Web Applications</h4>
         <p>Full-stack web development projects</p>
       </td>
-      <td width="33%" align="center" style="animation: float 3.5s ease-in-out infinite;">
+      <td width="33%" align="center" style="animation: float 3.5s ease-in-out infinite; padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
         <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf04c-2dc8-41c5-981d-2b582d449b56.gif" width="100" height="100" />
-        <h4>Mobile Apps</h4>
+        <h4>📱 Mobile Apps</h4>
         <p>Cross-platform mobile development</p>
       </td>
-      <td width="33%" align="center" style="animation: float 4s ease-in-out infinite;">
+      <td width="33%" align="center" style="animation: float 4s ease-in-out infinite; padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
         <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="100" height="100" />
-        <h4>API Services</h4>
-        <p>RESTful APIs and microservices</p>
+        <h4>🤖 AI & Robotics</h4>
+        <p>Machine learning and robotic systems</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Enhanced Animated Divider with 3D Effect -->
+<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" style="animation: pulse 4s infinite; background: repeating-linear-gradient(90deg, #00FF00, #00FF00 10px, transparent 10px, transparent 20px); height: 5px;" />
 </div>
 
-<!-- Enhanced Contact Section with Advanced Interactive Elements -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="40" height="40" /> Let's Connect!
+<!-- Enhanced Contact Section with Robot Theme and Advanced Interactive Elements -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="40" height="40" /> Let's Connect - Reach Out to Me
 
 <div align="center">
   <table>
     <tr>
-      <td width="25%" align="center" style="animation: float 3s ease-in-out infinite;">
+      <td width="25%" align="center" style="animation: float 3s ease-in-out infinite; padding: 15px;">
         <a href="mailto:makbelkebede35@gmail.com">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Gmail" width="70" height="70" />
           <br><strong>Email</strong>
         </a>
       </td>
-      <td width="25%" align="center" style="animation: float 3.3s ease-in-out infinite;">
+      <td width="25%" align="center" style="animation: float 3.3s ease-in-out infinite; padding: 15px;">
         <a href="https://github.com/makbel16">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="GitHub" width="70" height="70" />
           <br><strong>GitHub</strong>
         </a>
       </td>
-      <td width="25%" align="center" style="animation: float 3.6s ease-in-out infinite;">
+      <td width="25%" align="center" style="animation: float 3.6s ease-in-out infinite; padding: 15px;">
         <a href="https://linkedin.com/in/makbel-kebede">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="LinkedIn" width="70" height="70" />
           <br><strong>LinkedIn</strong>
         </a>
       </td>
-      <td width="25%" align="center" style="animation: float 3.9s ease-in-out infinite;">
+      <td width="25%" align="center" style="animation: float 3.9s ease-in-out infinite; padding: 15px;">
         <a href="https://twitter.com/makbel_dev">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bird.png" alt="Twitter" width="70" height="70" />
           <br><strong>Twitter</strong>
@@ -280,7 +297,7 @@
 </p>
 
 <!-- Enhanced Support Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage/Teacup%20Without%20Handle.png" alt="Support" width="40" height="40" /> Support My Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage/Teacup%20Without%20Handle.png" alt="Support" width="40" height="40" /> Support My Work - Fuel My Coding Journey
 
 <p align="center" style="animation: pulse 2s infinite;">
   <a href="https://www.buymeacoffee.com/Makbel16">
@@ -291,9 +308,9 @@
   </a>
 </p>
 
-<!-- Enhanced Footer with Advanced 3D Animation -->
+<!-- Enhanced Footer with Robot Theme and Advanced 3D Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=blinking&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Makbel%20Kebede&descAlignY=70&descSize=15" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=blinking&desc=🤖+Made+with+%E2%9D%A4%EF%B8%8F+by+Makbel+Kebede+%7C+🎓+Computer+Science+Student&descAlignY=70&descSize=15" alt="Footer" />
 </p>
 
 <div align="center">
