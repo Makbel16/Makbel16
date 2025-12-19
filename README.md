@@ -1,6 +1,6 @@
 <!-- Enhanced Animated Header with Robot Theme -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🤖+Hi%2C+I'm+Makbel+Kebede;🎓+Computer+Science+Student;💻+Full+Stack+Developer;🧠+AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Hi%2C+I'm+Makbel+Kebede;%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%A0+AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <!-- Robot-Themed Profile Image -->
@@ -19,7 +19,7 @@
 
 <!-- Enhanced Profile Banner with Robot Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=🤖+Full+Stack+Developer&fontSize=50&animation=twinkling&fontColor=fff&desc=🎓+Computer+Science+Student+%7C+💻+Full+Stack+Developer+%7C+🧠+AI+%26+Robotics+Enthusiast&descAlignY=80&descSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%F0%9F%A4%96+Full+Stack+Developer&fontSize=50&animation=twinkling&fontColor=fff&desc=%F0%9F%8E%93+Computer+Science+Student+%7C+%F0%9F%92%BB+Full+Stack+Developer+%7C+%F0%9F%A7%A0+AI+%26+Robotics+Enthusiast&descAlignY=80&descSize=20" alt="Header Banner" />
 </p>
 
 <!-- Enhanced Badges with Robot Theme -->
