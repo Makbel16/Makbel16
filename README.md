@@ -40,14 +40,14 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(255, 0, 255, 0.1)); padding: 30px; border-radius: 20px; border: 1px solid rgba(0, 212, 255, 0.3); backdrop-filter: blur(10px); max-width: 900px; margin: 0 auto;">
     
-    <h3 style="color: #00D4FF; text-transform: uppercase; letter-spacing: 3px;">🧠 NEURAL ARCHITECT</h3>
+<h3 style="color: #00D4FF; text-transform: uppercase; letter-spacing: 3px;">🧠 NEURAL ARCHITECT</h3>
     <p style="font-size: 1.1em; line-height: 1.6;">
       <span style="color: #FF00FF;">»</span> Digital architect specializing in full-stack development and AI systems<br>
       <span style="color: #FF00FF;">»</span> Computer Science student with focus on quantum computing and neural networks<br>
       <span style="color: #FF00FF;">»</span> Building the bridge between human creativity and machine intelligence
     </p>
     
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
       <div style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 4px solid #00D4FF; width: 250px;">
         <h4 style="color: #00FFAA;">⚡ CORE SYSTEMS</h4>
         <p>• Full-Stack Development</p>
@@ -56,7 +56,7 @@
         <p>• Quantum Algorithms</p>
       </div>
       
-      <div style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 4px solid #FF00FF; width: 250px;">
+  <div style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 4px solid #FF00FF; width: 250px;">
         <h4 style="color: #00FFAA;">🔮 FUTURE VISIONS</h4>
         <p>• Neural Interface Development</p>
         <p>• Quantum Machine Learning</p>
@@ -147,8 +147,8 @@
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 1200px; margin: 0 auto;">
     
-    <!-- Project 1 -->
-    <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.3); width: 300px;">
+
+  <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.3); width: 300px;">
       <h3 style="color: #00FFAA;">🌌 QUANTUM PORTAL</h3>
       <p>A quantum-inspired portfolio with 3D neural network visualization and interactive AI assistant.</p>
       <div style="margin-top: 15px;">
@@ -167,7 +167,7 @@
     </div>
     
     <!-- Project 2 -->
-    <div style="background: linear-gradient(135deg, rgba(255, 0, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(255, 0, 255, 0.3); width: 300px;">
+  <div style="background: linear-gradient(135deg, rgba(255, 0, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(255, 0, 255, 0.3); width: 300px;">
       <h3 style="color: #00FFAA;">🧠 NEURAL CHATBOT</h3>
       <p>AI-powered chatbot with emotional intelligence and contextual memory using transformer models.</p>
       <div style="margin-top: 15px;">
@@ -186,7 +186,7 @@
     </div>
     
     <!-- Project 3 -->
-    <div style="background: linear-gradient(135deg, rgba(0, 255, 170, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 255, 170, 0.3); width: 300px;">
+  <div style="background: linear-gradient(135deg, rgba(0, 255, 170, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 255, 170, 0.3); width: 300px;">
       <h3 style="color: #00FFAA;">⚡ CYBER DASHBOARD</h3>
       <p>Real-time monitoring dashboard for system metrics with cyberpunk UI and predictive analytics.</p>
       <div style="margin-top: 15px;">
@@ -213,7 +213,7 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 40px; background: rgba(0, 0, 0, 0.3); border-radius: 20px; max-width: 800px; margin: 0 auto;">
     
     <!-- Email -->
-    <a href="mailto:makbelkebede35@gmail.com" style="text-decoration: none;">
+  <a href="mailto:makbelkebede35@gmail.com" style="text-decoration: none;">
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #00D4FF, #0088FF); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="40" height="40" />
@@ -223,7 +223,7 @@
     </a>
     
     <!-- GitHub -->
-    <a href="https://github.com/makbel16" style="text-decoration: none;">
+  <a href="https://github.com/makbel16" style="text-decoration: none;">
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #333333, #666666); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" />
@@ -233,7 +233,7 @@
     </a>
     
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/makbel-kebede" style="text-decoration: none;">
+   <a href="https://linkedin.com/in/makbel-kebede" style="text-decoration: none;">
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #0077B5, #00A0DC); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" />
@@ -243,7 +243,7 @@
     </a>
     
     <!-- Twitter -->
-    <a href="https://twitter.com/makbel_dev" style="text-decoration: none;">
+   <a href="https://twitter.com/makbel_dev" style="text-decoration: none;">
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #1DA1F2, #1A91DA); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bird.png" width="40" height="40" />
@@ -253,7 +253,7 @@
     </a>
     
     <!-- Portfolio -->
-    <a href="https://makbel.vercel.app" style="text-decoration: none;">
+   <a href="https://makbel.vercel.app" style="text-decoration: none;">
       <div style="text-align: center;">
         <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #FF00FF, #AA00FF); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" height="40" />
