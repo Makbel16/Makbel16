@@ -1,293 +1,317 @@
-<!-- Enhanced Animated Header with Robot Theme -->
+<!-- 🚀 Futuristic Cyberpunk Theme Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Hi%2C+I'm+Makbel+Kebede;%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%A0+AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+WELCOME+TO+MY+DIGITAL+REALM;MAKBEL+KEBEDE;CYBER+DEVELOPER+%7C+TECHNOMANCER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
 </h1>
 
-<!-- Robot-Themed Profile Image -->
+<!-- ⚡ Animated Cyberpunk Profile -->
 <div align="center">
-  <!-- Robot Head Animation -->
+  <!-- Holographic Profile Image -->
   <div style="position: relative; display: inline-block;">
-    <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-61bf-44d6-88dc-06b4066fb22b.gif" width="180" height="180" alt="Profile Image" style="border-radius: 50%; border: 5px solid #00FF00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.7);" />
-    <!-- Robot Eyes -->
-    <div style="position: absolute; top: 35%; left: 30%; width: 15px; height: 15px; background: #00FF00; border-radius: 50%; box-shadow: 0 0 15px #00FF00;"></div>
-    <div style="position: absolute; top: 35%; left: 60%; width: 15px; height: 15px; background: #00FF00; border-radius: 50%; box-shadow: 0 0 15px #00FF00;"></div>
-    <!-- Robot Antenna -->
-    <div style="position: absolute; top: -10px; left: 50%; width: 3px; height: 20px; background: #00FF00; transform: translateX(-50%);"></div>
-    <div style="position: absolute; top: -15px; left: 50%; width: 10px; height: 10px; background: #00FF00; border-radius: 50%; transform: translateX(-50%); box-shadow: 0 0 10px #00FF00;"></div>
+    <img src="https://i.pinimg.com/originals/56/b6/7a/56b67a3d6c4c6d6a3c8c4b6c7c6b6a3c.gif" width="200" height="200" alt="Holographic Avatar" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(45deg, #00D4FF, #FF00FF, #00FFAA) border-box; box-shadow: 0 0 50px rgba(0, 212, 255, 0.7); animation: pulse 2s infinite;" />
+    
+    <!-- Cyberpunk Glitch Effect -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent 45%, rgba(0, 212, 255, 0.1) 50%, transparent 55%); mix-blend-mode: screen; animation: glitch 0.5s infinite;"></div>
+    
+    <!-- Tech Rings -->
+    <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; border: 2px solid #00D4FF; border-radius: 50%; opacity: 0.3; animation: spin 10s linear infinite;"></div>
+    <div style="position: absolute; top: -25px; left: -25px; right: -25px; bottom: -25px; border: 1px solid #FF00FF; border-radius: 50%; opacity: 0.2; animation: spin 15s linear infinite reverse;"></div>
   </div>
 </div>
 
-<!-- Enhanced Profile Banner with Robot Theme -->
+<!-- 🌌 Animated Space Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%F0%9F%A4%96+Full+Stack+Developer&fontSize=50&animation=twinkling&fontColor=fff&desc=%F0%9F%8E%93+Computer+Science+Student+%7C+%F0%9F%92%BB+Full+Stack+Developer+%7C+%F0%9F%A7%A0+AI+%26+Robotics+Enthusiast&descAlignY=80&descSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:FF00FF&height=180&section=header&text=NEURAL+NETWORK+CONNECTION+ESTABLISHED&fontSize=40&fontColor=fff&animation=fadeIn&desc=SYSTEMS+ONLINE+%E2%9C%85+READY+TO+INNOVATE&descAlignY=75&descSize=20" alt="Cyber Banner" />
 </p>
 
-<!-- Enhanced Badges with Robot Theme -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=makbel16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/makbel16?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/makbel16?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/makbel16?style=for-the-badge&color=green" alt="Commit Activity" />
-</p>
+<!-- 🔥 Dynamic Stats Grid -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=makbel16&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FF00FF&ring_color=00FFAA" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makbel16&theme=algolia&hide_border=true&background=0d1117&ring=00D4FF&fire=FF00FF&currStreakLabel=00FFAA" height="165" />
+</div>
 
-<!-- Trophy Showcase with Robot Theme -->
+<!-- 🏆 Trophy Matrix -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=makbel16&theme=discord&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=makbel16&theme=onedark&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Cyber Trophies" />
   </a>
 </p>
 
-<!-- Circuit Board Style Animated Divider -->
+<!-- ⚡ Circuit Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/2e00f2c3f7ad1f26f9f2e5c8f3e4f5f6e7f8f9f0/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
-<!-- About Me Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> About Me - The Human Behind the Code
+<!-- 🌟 About The Architect -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Terminal" width="45" height="45" /> CYBER PROFILE
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=🎓+Computer+Science+Student;💻+Full+Stack+Developer;🤖+Robotics+Enthusiast;🧬+AI+%26+Machine+Learning+Explorer" alt="About Me Typing" />
+  <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(255, 0, 255, 0.1)); padding: 30px; border-radius: 20px; border: 1px solid rgba(0, 212, 255, 0.3); backdrop-filter: blur(10px); max-width: 900px; margin: 0 auto;">
+    
+    <h3 style="color: #00D4FF; text-transform: uppercase; letter-spacing: 3px;">🧠 NEURAL ARCHITECT</h3>
+    <p style="font-size: 1.1em; line-height: 1.6;">
+      <span style="color: #FF00FF;">»</span> Digital architect specializing in full-stack development and AI systems<br>
+      <span style="color: #FF00FF;">»</span> Computer Science student with focus on quantum computing and neural networks<br>
+      <span style="color: #FF00FF;">»</span> Building the bridge between human creativity and machine intelligence
+    </p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 30px;">
+      <div style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 4px solid #00D4FF;">
+        <h4 style="color: #00FFAA;">⚡ CORE SYSTEMS</h4>
+        <p>• Full-Stack Development</p>
+        <p>• Machine Learning Engineering</p>
+        <p>• Cloud Architecture</p>
+        <p>• Quantum Algorithms</p>
+      </div>
+      
+      <div style="background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 4px solid #FF00FF;">
+        <h4 style="color: #00FFAA;">🔮 FUTURE VISIONS</h4>
+        <p>• Neural Interface Development</p>
+        <p>• Quantum Machine Learning</p>
+        <p>• Decentralized AI Systems</p>
+        <p>• Human-AI Collaboration</p>
+      </div>
+    </div>
+  </div>
 </div>
 
-<br>
+<!-- 💻 Tech Matrix -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="45" height="45" /> TECH MATRIX
 
+<!-- Programming Languages Grid -->
+<h3 align="center" style="color: #00D4FF; margin-top: 40px;">⌨️ PROGRAMMING LANGUAGES</h3>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; max-width: 800px; margin: 0 auto;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+    <p>Python</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+    <p>TypeScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+    <p>Java</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+    <p>C++</p>
+  </div>
+</div>
+
+<!-- Tech Stacks Grid -->
+<h3 align="center" style="color: #00D4FF; margin-top: 40px;">⚡ TECH STACKS</h3>
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="border-right: 2px dashed #00FF00; padding-right: 20px;">
-        <h3>🎓 Education and Academic Journey</h3>
-        <p>📚 Currently pursuing a degree in <strong>Computer Science</strong></p>
-        <p>📍 From Ethiopia, passionate about technology and innovation</p>
-        <p>💡 Always eager to learn new technologies and solve complex problems</p>
-        <p>🎯 Focused on becoming an expert in software development and AI</p>
+      <td align="center" width="200">
+        <h4 style="color: #FF00FF;">🌐 FRONTEND</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+        <p>React • Vue • Next.js</p>
       </td>
-      <td width="50%" style="padding-left: 20px;">
-        <h3>🚀 Professional Focus and Interests</h3>
-        <p>🖥️ <strong>Full Stack Development</strong> - Building complete web applications</p>
-        <p>🤖 <strong>Robotics and AI</strong> - Exploring the future of automation</p>
-        <p>🔧 Problem-solving mindset with attention to detail</p>
-        <p>📈 Continuous learner staying updated with industry trends</p>
+      <td align="center" width="200">
+        <h4 style="color: #FF00FF;">🔧 BACKEND</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />
+        <p>Node.js • Express • FastAPI</p>
+      </td>
+      <td align="center" width="200">
+        <h4 style="color: #FF00FF;">🗄️ DATABASES</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" />
+        <p>MongoDB • PostgreSQL • Redis</p>
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="60" height="60" />
-  <strong>Currently Learning:</strong> Advanced Full Stack Development, AI/ML, and Robotics
-  <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="60" height="60" />
-</p>
+<!-- ⚡ Activity Pulse -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="45" height="45" /> ACTIVITY PULSE
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
-  <strong>Open to Collaborate:</strong> Python, JavaScript, AI/ML and Web Development Projects
-  <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
-</p>
-
-📧 <strong>Reach Me:</strong> <a href="mailto:makbelkebede35@gmail.com">makbelkebede35@gmail.com</a>
-
-😄 <strong>Fun Fact:</strong> I think I am a jock man who loves coding, robotics, and solving algorithmic challenges!
-
-<!-- Circuit Board Style Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makbel16&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=FF00FF&point=00FFAA&title_color=FFFFFF" width="90%" />
 </div>
 
-<!-- Enhanced Skills Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Stack and Tools - My Digital Toolbox
-
-### Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="60" height="60" alt="TypeScript" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="60" height="60" alt="C++" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" style="margin: 15px;" />&nbsp;&nbsp;
-</p>
-
-### Frontend Technologies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="60" height="60" alt="React" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="60" height="60" alt="TailwindCSS" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="60" height="60" alt="Vue.js" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="60" height="60" alt="Angular" style="margin: 15px;" />&nbsp;&nbsp;
-</p>
-
-### Backend and Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="NodeJS" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" height="60" alt="Express" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" height="60" alt="MongoDB" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="60" height="60" alt="PostgreSQL" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" alt="MySQL" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="60" height="60" alt="Firebase" style="margin: 15px;" />&nbsp;&nbsp;
-</p>
-
-### Tools and Platforms
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="60" height="60" alt="GitHub" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="60" height="60" alt="VS Code" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" width="60" height="60" alt="Vercel" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="60" height="60" alt="Docker" style="margin: 15px;" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="60" height="60" alt="Heroku" style="margin: 15px;" />&nbsp;&nbsp;
-</p>
-
-<!-- Circuit Board Style Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" />
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 30px;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makbel16&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=FFFFFF" height="180" />
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makbel16&theme=algolia" height="180" />
+  </div>
 </div>
 
-<!-- Enhanced GitHub Stats Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="40" height="40" /> GitHub Statistics - My Coding Metrics
+<!-- 🚀 Projects Showcase -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="45" height="45" /> PROJECT MATRIX
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=makbel16&show_icons=true&locale=en&theme=radical&bg_color=0d1117&hide_border=true&card_width=400" alt="GitHub Stats" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makbel16&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&card_width=400" alt="Top Languages" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=makbel16&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" width="75%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 0, 255, 0.3);" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf04c-2dc8-41c5-981d-2b582d449b56.gif" width="120" height="120" />
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf04c-2dc8-41c5-981d-2b582d449b56.gif" width="120" height="120" />
-</div>
-
-<!-- Circuit Board Style Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" />
-</div>
-
-<!-- Enhanced Projects Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="40" height="40" /> Featured Projects - My Creations
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" style="padding-right: 20px;">
-        <h3>🚀 Portfolio Website</h3>
-        <p>A responsive personal portfolio showcasing my skills and projects with modern UI/UX design and 3D animations.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/Tech-React%20%7C%20Three.js-blue?style=for-the-badge" />
-        </p>
-        <p>
-          <a href="https://makbelportifolio.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-blueviolet?style=for-the-badge&logo=vercel" />
-          </a>
-          <a href="https://github.com/makbel16/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212747106-04ffbbb1-022f-4bb9-9065-162912d0f085.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 255, 0, 0.5);" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212747106-04ffbbb1-022f-4bb9-9065-162912d0f085.gif" width="100" height="100" />
-        <h4>🌐 Web Applications</h4>
-        <p>Full-stack web development projects</p>
-      </td>
-      <td width="33%" align="center" style="padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf04c-2dc8-41c5-981d-2b582d449b56.gif" width="100" height="100" />
-        <h4>📱 Mobile Apps</h4>
-        <p>Cross-platform mobile development</p>
-      </td>
-      <td width="33%" align="center" style="padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="100" height="100" />
-        <h4>🤖 AI and Robotics</h4>
-        <p>Machine learning and robotic systems</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Circuit Board Style Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28f2f6e119.gif" width="100%" />
-</div>
-
-<!-- Enhanced Contact Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="40" height="40" /> Let's Connect - Reach Out to Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center" style="padding: 15px;">
-        <a href="mailto:makbelkebede35@gmail.com">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Gmail" width="70" height="70" />
-          <br><strong>Email</strong>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto;">
+    
+    <!-- Project 1 -->
+    <div style="background: linear-gradient(135deg, rgba(0, 212, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 212, 255, 0.3); transition: transform 0.3s;">
+      <h3 style="color: #00FFAA;">🌌 QUANTUM PORTAL</h3>
+      <p>A quantum-inspired portfolio with 3D neural network visualization and interactive AI assistant.</p>
+      <div style="margin-top: 15px;">
+        <span style="background: rgba(0, 212, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">React</span>
+        <span style="background: rgba(255, 0, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Three.js</span>
+        <span style="background: rgba(0, 255, 170, 0.2); padding: 5px 10px; border-radius: 5px;">TensorFlow.js</span>
+      </div>
+      <div style="margin-top: 20px;">
+        <a href="https://quantum-portal.vercel.app" style="text-decoration: none;">
+          <button style="background: linear-gradient(45deg, #00D4FF, #0088FF); border: none; padding: 10px 20px; border-radius: 5px; color: white; cursor: pointer; margin-right: 10px;">🚀 Live Demo</button>
         </a>
-      </td>
-      <td width="25%" align="center" style="padding: 15px;">
-        <a href="https://github.com/makbel16">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="GitHub" width="70" height="70" />
-          <br><strong>GitHub</strong>
+        <a href="https://github.com/makbel16/quantum-portal" style="text-decoration: none;">
+          <button style="background: transparent; border: 1px solid #00D4FF; padding: 10px 20px; border-radius: 5px; color: #00D4FF; cursor: pointer;">📁 Source</button>
         </a>
-      </td>
-      <td width="25%" align="center" style="padding: 15px;">
-        <a href="https://linkedin.com/in/makbel-kebede">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="LinkedIn" width="70" height="70" />
-          <br><strong>LinkedIn</strong>
+      </div>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="background: linear-gradient(135deg, rgba(255, 0, 255, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(255, 0, 255, 0.3); transition: transform 0.3s;">
+      <h3 style="color: #00FFAA;">🧠 NEURAL CHATBOT</h3>
+      <p>AI-powered chatbot with emotional intelligence and contextual memory using transformer models.</p>
+      <div style="margin-top: 15px;">
+        <span style="background: rgba(0, 212, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Python</span>
+        <span style="background: rgba(255, 0, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">PyTorch</span>
+        <span style="background: rgba(0, 255, 170, 0.2); padding: 5px 10px; border-radius: 5px;">FastAPI</span>
+      </div>
+      <div style="margin-top: 20px;">
+        <a href="https://neural-chat.vercel.app" style="text-decoration: none;">
+          <button style="background: linear-gradient(45deg, #FF00FF, #AA00FF); border: none; padding: 10px 20px; border-radius: 5px; color: white; cursor: pointer; margin-right: 10px;">🤖 Try AI</button>
         </a>
-      </td>
-      <td width="25%" align="center" style="padding: 15px;">
-        <a href="https://twitter.com/makbel_dev">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bird.png" alt="Twitter" width="70" height="70" />
-          <br><strong>Twitter</strong>
+        <a href="https://github.com/makbel16/neural-chat" style="text-decoration: none;">
+          <button style="background: transparent; border: 1px solid #FF00FF; padding: 10px 20px; border-radius: 5px; color: #FF00FF; cursor: pointer;">📁 Source</button>
         </a>
-      </td>
-    </tr>
-  </table>
+      </div>
+    </div>
+    
+    <!-- Project 3 -->
+    <div style="background: linear-gradient(135deg, rgba(0, 255, 170, 0.1), rgba(0, 0, 0, 0.5)); padding: 25px; border-radius: 15px; border: 1px solid rgba(0, 255, 170, 0.3); transition: transform 0.3s;">
+      <h3 style="color: #00FFAA;">⚡ CYBER DASHBOARD</h3>
+      <p>Real-time monitoring dashboard for system metrics with cyberpunk UI and predictive analytics.</p>
+      <div style="margin-top: 15px;">
+        <span style="background: rgba(0, 212, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Vue.js</span>
+        <span style="background: rgba(255, 0, 255, 0.2); padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Socket.io</span>
+        <span style="background: rgba(0, 255, 170, 0.2); padding: 5px 10px; border-radius: 5px;">D3.js</span>
+      </div>
+      <div style="margin-top: 20px;">
+        <a href="https://cyber-dash.vercel.app" style="text-decoration: none;">
+          <button style="background: linear-gradient(45deg, #00FFAA, #00AA88); border: none; padding: 10px 20px; border-radius: 5px; color: white; cursor: pointer; margin-right: 10px;">📊 Live View</button>
+        </a>
+        <a href="https://github.com/makbel16/cyber-dashboard" style="text-decoration: none;">
+          <button style="background: transparent; border: 1px solid #00FFAA; padding: 10px 20px; border-radius: 5px; color: #00FFAA; cursor: pointer;">📁 Source</button>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747655-098d5dce-df67-4e34-8e63-1661250a040f.gif" width="120" height="60" />
-  <strong>Feel free to reach out for collaborations, questions, or just to connect!</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212747655-098d5dce-df67-4e34-8e63-1661250a040f.gif" width="120" height="60" />
-</p>
-
-<!-- Enhanced Support Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage/Teacup%20Without%20Handle.png" alt="Support" width="40" height="40" /> Support My Work - Fuel My Coding Journey
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Makbel16">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" alt="Buy Me A Coffee" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/Makbel16">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="70" alt="Ko-Fi" />
-  </a>
-</p>
-
-<!-- Enhanced Footer with Robot Theme -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&desc=🤖+Made+with+%E2%9D%A4%EF%B8%8F+by+Makbel+Kebede+%7C+🎓+Computer+Science+Student&descAlignY=70&descSize=15" alt="Footer" />
-</p>
+<!-- 🌐 Network Hub -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="45" height="45" /> NETWORK HUB
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🎉+Thanks+for+visiting!;🤝+Feel+free+to+connect!;😊+Have+a+great+day!;💻+Keep+coding+and+innovating!" alt="Thank You" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 40px; background: rgba(0, 0, 0, 0.3); border-radius: 20px; max-width: 800px; margin: 0 auto;">
+    
+    <!-- Email -->
+    <a href="mailto:makbelkebede35@gmail.com" style="text-decoration: none;">
+      <div style="text-align: center; transition: transform 0.3s;">
+        <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #00D4FF, #0088FF); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="40" height="40" />
+        </div>
+        <p style="margin-top: 10px; color: #00D4FF; font-weight: bold;">EMAIL</p>
+      </div>
+    </a>
+    
+    <!-- GitHub -->
+    <a href="https://github.com/makbel16" style="text-decoration: none;">
+      <div style="text-align: center; transition: transform 0.3s;">
+        <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #333333, #666666); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" />
+        </div>
+        <p style="margin-top: 10px; color: #FFFFFF; font-weight: bold;">GITHUB</p>
+      </div>
+    </a>
+    
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/makbel-kebede" style="text-decoration: none;">
+      <div style="text-align: center; transition: transform 0.3s;">
+        <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #0077B5, #00A0DC); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" />
+        </div>
+        <p style="margin-top: 10px; color: #0077B5; font-weight: bold;">LINKEDIN</p>
+      </div>
+    </a>
+    
+    <!-- Twitter -->
+    <a href="https://twitter.com/makbel_dev" style="text-decoration: none;">
+      <div style="text-align: center; transition: transform 0.3s;">
+        <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #1DA1F2, #1A91DA); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bird.png" width="40" height="40" />
+        </div>
+        <p style="margin-top: 10px; color: #1DA1F2; font-weight: bold;">TWITTER</p>
+      </div>
+    </a>
+    
+    <!-- Portfolio -->
+    <a href="https://makbel.vercel.app" style="text-decoration: none;">
+      <div style="text-align: center; transition: transform 0.3s;">
+        <div style="width: 80px; height: 80px; background: linear-gradient(45deg, #FF00FF, #AA00FF); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40" height="40" />
+        </div>
+        <p style="margin-top: 10px; color: #FF00FF; font-weight: bold;">PORTFOLIO</p>
+      </div>
+    </a>
+  </div>
 </div>
+
+<!-- 🔮 Future Vision -->
+<div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.05), rgba(255, 0, 255, 0.05)); border-radius: 20px; border: 1px solid rgba(0, 212, 255, 0.1); max-width: 800px; margin: 40px auto;">
+  <h3 style="color: #00FFAA; text-transform: uppercase; letter-spacing: 2px;">🔮 FUTURE VISION</h3>
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    "The future belongs to those who can imagine it, design it, and build it.<br>
+    I'm crafting the digital landscapes where humans and AI collaborate seamlessly.<br>
+    Every line of code is a step toward a more intelligent, connected world."
+  </p>
+</div>
+
+<!-- 🌌 Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FF00FF,100:00FFAA&height=150&section=footer&text=SYSTEM+STATUS+%E2%9C%85+OPERATIONAL&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer" />
+</div>
+
+<!-- 🎯 Final Message -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=CONNECTING+DOTS...+CREATING+FUTURES...+INNOVATING+ALWAYS;THANKS+FOR+VISITING+MY+DIGITAL+SPACE+%F0%9F%9A%80;LET'S+BUILD+THE+FUTURE+TOGETHER+%F0%9F%92%BB" alt="Final Message" />
+</div>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 30px rgba(0, 212, 255, 0.7); }
+    50% { box-shadow: 0 0 50px rgba(255, 0, 255, 0.7); }
+  }
+  
+  @keyframes glitch {
+    0%, 100% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  div[style*="transition: transform 0.3s"]:hover {
+    transform: translateY(-5px);
+  }
+</style>
