@@ -10,7 +10,7 @@
 
 <!-- 🌌 Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:FF00FF&height=180&section=header&text=FULL+STACK+DEVELOPER+%7C+CS+STUDENT&fontSize=40&fontColor=fff&animation=fadeIn&desc=PASSIONATE+ABOUT+WEB+TECHNOLOGIES+%26+SOFTWARE+ENGINEERING&descAlignY=75&descSize=20" alt="Professional Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:FF00FF&height=180&section=header&text=FULL+STACK+DEVELOPER+%7C+CS+STUDENT&fontSize=40&fontColor=fff&animation=fadeIn&desc=PASSIONATE+ABOUT+WEB+TECHNOLOGIES+%26+SOFTWARE+ENGINEERING&amp;descAlignY=75&amp;descSize=20" alt="Professional Banner" />
 </p>
 
 <!-- 🔥 Dynamic Stats Grid -->
