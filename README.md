@@ -22,7 +22,7 @@
 <!-- 🏆 GitHub Achievements -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=makbel16&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=5&amp;margin-h=5" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=makbel16&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=5&amp;margin-h=5" alt="GitHub Trophies" />
   </a>
 </p>
 
