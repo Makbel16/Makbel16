@@ -1,4 +1,3 @@
-
 <!-- Enhanced Animated Header with Robot Theme -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Hi%2C+I'm+Makbel+Kebede;%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%A0+AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
@@ -56,16 +55,16 @@
   <table>
     <tr>
       <td width="50%" style="border-right: 2px dashed #00FF00; padding-right: 20px;">
-        <h3>🎓 Education &amp; Academic Journey</h3>
+        <h3>🎓 Education and Academic Journey</h3>
         <p>📚 Currently pursuing a degree in <strong>Computer Science</strong></p>
         <p>📍 From Ethiopia, passionate about technology and innovation</p>
         <p>💡 Always eager to learn new technologies and solve complex problems</p>
         <p>🎯 Focused on becoming an expert in software development and AI</p>
       </td>
       <td width="50%" style="padding-left: 20px;">
-        <h3>🚀 Professional Focus &amp; Interests</h3>
+        <h3>🚀 Professional Focus and Interests</h3>
         <p>🖥️ <strong>Full Stack Development</strong> - Building complete web applications</p>
-        <p>🤖 <strong>Robotics &amp; AI</strong> - Exploring the future of automation</p>
+        <p>🤖 <strong>Robotics and AI</strong> - Exploring the future of automation</p>
         <p>🔧 Problem-solving mindset with attention to detail</p>
         <p>📈 Continuous learner staying updated with industry trends</p>
       </td>
@@ -81,7 +80,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
-  <strong>Open to Collaborate:</strong> Python, JavaScript, AI/ML &amp; Web Development Projects
+  <strong>Open to Collaborate:</strong> Python, JavaScript, AI/ML and Web Development Projects
   <img src="https://user-images.githubusercontent.com/74038190/212746648-09da49bc-31b4-4105-b29c-102494529a55.gif" width="60" height="60" />
 </p>
 
@@ -95,7 +94,7 @@
 </div>
 
 <!-- Enhanced Skills Section with Robot Theme -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Stack &amp; Tools - My Digital Toolbox
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Stack and Tools - My Digital Toolbox
 
 ### Programming Languages
 <p align="center">
@@ -117,7 +116,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="60" height="60" alt="Angular" style="margin: 15px;" />&nbsp;&nbsp;
 </p>
 
-### Backend &amp; Databases
+### Backend and Databases
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="NodeJS" style="margin: 15px;" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" height="60" alt="Express" style="margin: 15px;" />&nbsp;&nbsp;
@@ -127,7 +126,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="60" height="60" alt="Firebase" style="margin: 15px;" />&nbsp;&nbsp;
 </p>
 
-### Tools &amp; Platforms
+### Tools and Platforms
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" style="margin: 15px;" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="60" height="60" alt="GitHub" style="margin: 15px;" />&nbsp;&nbsp;
@@ -220,7 +219,7 @@
       </td>
       <td width="33%" align="center" style="padding: 15px; border: 1px solid #00FF00; border-radius: 10px; margin: 10px;">
         <img src="https://user-images.githubusercontent.com/74038190/212746030-6eeb4c29-42d2-4705-b65d-758fab260b3f.gif" width="100" height="100" />
-        <h4>🤖 AI &amp; Robotics</h4>
+        <h4>🤖 AI and Robotics</h4>
         <p>Machine learning and robotic systems</p>
       </td>
     </tr>
