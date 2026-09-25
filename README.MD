@@ -10,7 +10,7 @@
   <a href="mailto:makbelkebede35@gmail.com">
     <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/makbel-kebede">
+  <a href="https://www.linkedin.com/in/makbel-kebede-930a903b7/">
     <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=E6FFF5&labelColor=0B1220" alt="LinkedIn" />
   </a>
   <a href="https://github.com/makbel16">
