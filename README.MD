@@ -16,7 +16,7 @@
   <a href="https://github.com/makbel16">
     <img src="https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=E6FFF5&labelColor=0B1220" alt="GitHub" />
   </a>
-  <a href="https://makbelportifolio.vercel.app/">
+  <a href="https://makbel-kebede.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=E6FFF5&labelColor=0B1220" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/makbel16">
